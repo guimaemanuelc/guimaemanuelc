@@ -12,11 +12,11 @@
 
 ###
 
-<h2 align="left">Hi 👋! Meu nome é Emanuel,</h2>
+<h2 align="left">Hi 👋! Meu nome é Emanuel.</h2>
 
 ###
 
-<p align="left">tenho 21 anos, conheci a programação no final de 2022 e me apaixonei pela área, desde então estou estudando e dando meu melhor para evoluir cada dia mais. Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">Tenho 21 anos, conheci a programação no final de 2022 e me apaixonei pela área, desde então estou estudando front-end e dando meu melhor para evoluir cada dia mais. Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
