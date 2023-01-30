@@ -16,10 +16,6 @@
 
 ###
 
-<p align="left">Tenho 21 anos, conheci a programação no final de 2022 e me apaixonei pela área, desde então estou estudando front-end e dando meu melhor para evoluir cada dia mais. Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas.</p>
-
-###
-
 <h2 align="left">Em constante evolução...</h2>
 
 ###
