@@ -12,10 +12,6 @@
 
 ###
 
-<h2 align="left">Hi 👋! Meu nome é Emanuel.</h2>
-
-###
-
 <h2 align="left">Em constante evolução...</h2>
 
 ###
