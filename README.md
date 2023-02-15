@@ -9,6 +9,12 @@
 
 ###
 
+<div>
+  <p>"-It gets easier. Every day it gets a little easier. But you gotta do it every day — that’s the hard part. But it does get easier."</p>
+</div>
+
+###
+
 <h2 align="left">Em constante evolução...</h2>
 
 ###
