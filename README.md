@@ -11,7 +11,7 @@
 
 <div>
   <h1>Hi, I'm Emanuel</h1>
-  <p>Front-End Developer, coffee and javascript lover.</p>
+  <p>Front-End Developer, coffee and Vue lover.</p>
 </div>
 
 ###
