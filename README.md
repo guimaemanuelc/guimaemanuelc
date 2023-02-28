@@ -1,4 +1,4 @@
-#  About Me:
+# - About Me:
 Front-End Developer, coffee and Vue lover.<br><br>"-It gets easier. Every day it gets a little easier. But you gotta do it every day — that’s the hard part. But it does get easier."<br><br>
 
 
